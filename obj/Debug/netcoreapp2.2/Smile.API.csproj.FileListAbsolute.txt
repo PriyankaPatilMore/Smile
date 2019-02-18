@@ -1,0 +1,14 @@
+G:\smile\Smile.API\bin\Debug\netcoreapp2.2\Smile.API.deps.json
+G:\smile\Smile.API\bin\Debug\netcoreapp2.2\Smile.API.runtimeconfig.json
+G:\smile\Smile.API\bin\Debug\netcoreapp2.2\Smile.API.runtimeconfig.dev.json
+G:\smile\Smile.API\bin\Debug\netcoreapp2.2\Smile.API.dll
+G:\smile\Smile.API\bin\Debug\netcoreapp2.2\Smile.API.pdb
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.csprojAssemblyReference.cache
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.csproj.CoreCompileInputs.cache
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.RazorAssemblyInfo.cache
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.RazorAssemblyInfo.cs
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.AssemblyInfoInputs.cache
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.AssemblyInfo.cs
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.RazorTargetAssemblyInfo.cache
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.dll
+G:\smile\Smile.API\obj\Debug\netcoreapp2.2\Smile.API.pdb
